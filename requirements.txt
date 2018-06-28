@@ -16,3 +16,4 @@ itsdangerous
 python-dateutil
 requests
 six
+bpython
